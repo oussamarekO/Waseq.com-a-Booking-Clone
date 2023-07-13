@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Waseq.com-a-Booking-Clone/static/css/main.bc1df027.css",
+    "main.js": "/Waseq.com-a-Booking-Clone/static/js/main.217d13ed.js",
+    "static/media/hotel.jpg": "/Waseq.com-a-Booking-Clone/static/media/hotel.a9ba012f3d15933a1fee.jpg",
+    "static/media/london.jpg": "/Waseq.com-a-Booking-Clone/static/media/london.b04eb10cef4ff44266d8.jpg",
+    "static/media/villas.jpg": "/Waseq.com-a-Booking-Clone/static/media/villas.a78ccbe4a9c3513e078b.jpg",
+    "static/media/zurich.jpg": "/Waseq.com-a-Booking-Clone/static/media/zurich.1b59190fc552d7ff5791.jpg",
+    "static/media/cabins.jpg": "/Waseq.com-a-Booking-Clone/static/media/cabins.00cdf42ca17263d2b601.jpg",
+    "static/media/helena-lopes-e3OUQGT9bWU-unsplash.jpg": "/Waseq.com-a-Booking-Clone/static/media/helena-lopes-e3OUQGT9bWU-unsplash.d98f7981b945a1780941.jpg",
+    "static/media/resorts.jpg": "/Waseq.com-a-Booking-Clone/static/media/resorts.6b65b232c0f46905d723.jpg",
+    "static/media/room2.jpg": "/Waseq.com-a-Booking-Clone/static/media/room2.5c7834ccc24c637965fc.jpg",
+    "static/media/room5.jpg": "/Waseq.com-a-Booking-Clone/static/media/room5.637d99b3cb2daecdf946.jpg",
+    "static/media/Amesterdam.jpg": "/Waseq.com-a-Booking-Clone/static/media/Amesterdam.f8a33a0c66cfce74a6f3.jpg",
+    "static/media/room1.jpg": "/Waseq.com-a-Booking-Clone/static/media/room1.deae7781fcb791f7aa29.jpg",
+    "static/media/appartement.jpg": "/Waseq.com-a-Booking-Clone/static/media/appartement.da85f7f059640397aca0.jpg",
+    "static/media/room3.jpg": "/Waseq.com-a-Booking-Clone/static/media/room3.5129d7e894ba8cf5ad06.jpg",
+    "index.html": "/Waseq.com-a-Booking-Clone/index.html",
+    "main.bc1df027.css.map": "/Waseq.com-a-Booking-Clone/static/css/main.bc1df027.css.map",
+    "main.217d13ed.js.map": "/Waseq.com-a-Booking-Clone/static/js/main.217d13ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc1df027.css",
+    "static/js/main.217d13ed.js"
+  ]
+}
