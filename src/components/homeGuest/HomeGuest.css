@@ -1,0 +1,25 @@
+.guest {
+    display: grid ;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.guest .box {
+    cursor: pointer;
+}
+.guest .box img {
+    width: 100%;
+    border-radius: 6px;
+}
+.guest .box .title {
+    padding: 5px 10px;
+}
+.guest .box .title h2 {
+    font-size: 14px;
+    color: #c3c3c3;
+}
+.guest .box .title h1 {
+    font-size: 20px;
+    font-weight: bold;
+}

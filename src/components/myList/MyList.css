@@ -1,0 +1,13 @@
+.searching {
+    flex: 1;
+}
+.result{
+    flex: 3;
+}
+.date {
+    position: relative;
+}
+.dateTime {
+    position: absolute;
+    top: 100px;
+}
